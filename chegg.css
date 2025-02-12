@@ -5,6 +5,7 @@
     justify-content: space-between;
     position: sticky;
     top: 0;
+    background-color: white;
 }
 .bharu>h1{
     color: darkorange;
@@ -16,6 +17,9 @@
 .text-area{
     width: 700px;
     height: 100px;
+}
+.text-area>h1{
+    padding-top: 10px;
 }
 
 
@@ -46,12 +50,18 @@
     padding:10px;
     background-color: rgb(241, 241, 240);
     display: flex;
-    align-items: center;
     margin:20px auto;
+    margin-bottom: 160px;
    justify-content: space-between;
+
    
     
 }
+.jyo>i{
+    font-size: 25px;
+}
+
+
 
 
 
@@ -63,6 +73,7 @@
     font-size: 27px;
     padding:60px;
     background-color: rgb(243, 228, 223);
+    height: 20px;
 
 
     
